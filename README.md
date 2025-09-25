@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [E-Commerce-Full-Feature](https://github.com/brmntiosa/Apps-eCommerce-Full-Feature.git)
 
-- 🌱 I’m currently learning **Express.js, Tailwind.js, Astro.js**
+- 🌱 I’m currently learning **Express.js, Tailwind.js, Laravel**
 
 - 👯 I’m looking to collaborate on **Laravel And React Project**
 
